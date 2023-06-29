@@ -15,7 +15,7 @@ This is a cake store graphical user interface (GUI) application built with Java 
 To run this application, you will need the following:
 
 - Java Development Kit (JDK) installed on your machine.
-- MySQL Server installed and running.
+- MySQL installed and running.
 - MySQL Connector/J library to connect Java with MySQL.
 
 ## Installation
